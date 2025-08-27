@@ -372,8 +372,7 @@ font-weight: 500;
       display: block;
     }
     .pricingg{
-      margin-left: 10px;
-    }
+text-align: center;    }
 
     .pricing-card {
       background-color: #fff;
